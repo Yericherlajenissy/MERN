@@ -1,4 +1,4 @@
-# MERN Stack Project- Online Learning Platform by Zenis
+# MERN Stack Project- Online Learning Platform by Zeniss
 
 This project is an Online Learning Platform using full-stack MERN application, consisting of a React frontend and a Node.js backend with Express.
 
